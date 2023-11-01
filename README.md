@@ -2,9 +2,19 @@
 
 **Note:** This kick-starter hasn't been submitted yet. Please read and help solve open bugs.
 
-.internet fights against internet fragmention.
+.internet fights against internet fragmention and enbraces web4.
 
 Web4 is a term that is used to refer to the next generation of the internet. It is also known as the “more” decentralized web. Web4 aims to create a more decentralized and distributed internet that is controlled by its users rather than centralized organizations or corporations. web4 will be .internet
+
+Web4 This covers open 
+
+* networking protocols
+* hardware
+* software
+
+and many many more people and projects that fight against fragmentation, walled gardens and centralisation.
+
+.internet represents Open, Federdated, Distributed and p2p technology. This is web4.
 
 # Kickstarter
 The kickstart project is to raise the funds to apply for buying the .internet top level domain. An application is $180,000,
@@ -37,9 +47,11 @@ Limited to first 50 pledges.
 Okay, this is kind of a vanity TLD, but we freaking build the distrubuted web every day...  Shouldn't we have a TLD that 
 internet hackers control?
 
-Domains will be granted to their obvious owners... vince.internet to vince, mars.internet goes to musk, etc.
+Domains will be granted to their obvious owners... 
 
-Got a federated, distributed, p2p, open protocol project and need a chat.internet or meetup.internet or whatever it's yours.
+Got a federated, distributed, p2p, open protocol project and need a matrix.chat.internet, xmpp.chat.internet etc etc or it's yours.
+
+However, project needs to be open and be able to fully distributed or federated within the protocol. 
 
 Centralised services squatters will not be tolerated, to the best of the project's ability to limit or ban this behavior...
 
