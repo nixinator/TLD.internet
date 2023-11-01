@@ -4,6 +4,8 @@
 
 .internet fights against internet fragmention.
 
+Web4 is a term that is used to refer to the next generation of the internet. It is also known as the “more” decentralized web. Web4 aims to create a more decentralized and distributed internet that is controlled by its users rather than centralized organizations or corporations. web4 will be .internet
+
 # Kickstarter
 The kickstart project is to raise the funds to apply for buying the .internet top level domain. An application is $180,000,
 plus $5000 as a deposit, plus an unknown amount for application disputes and administrative fees.
