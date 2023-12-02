@@ -2,7 +2,7 @@
 
 **Note:** This kick-starter hasn't been submitted yet. Please read and help solve open bugs.
 
-.internet fights against internet fragmention and enbraces web4.
+.internet fights against internet fragmention and embraces web4.
 
 Web4 is a term that is used to refer to the next generation of the internet. It is also known as the “more” decentralized web. Web4 aims to create a more decentralized and distributed internet that is controlled by its users rather than centralized organizations or corporations. web4 will be .internet
 
